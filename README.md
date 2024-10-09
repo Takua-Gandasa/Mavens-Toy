@@ -37,6 +37,8 @@ Super Store Data: The primnary dataset used for this analysis is the "superstore
 
 ### EXPLORATORY DATA ANALYSIS
 ---
+EDA involved exploring the sales data to answer key questions, such as:
+
 - What is the Total Revenue Generated?
 - What is the Total Cost Of Good?
 - What is the Total Profit?
@@ -57,3 +59,14 @@ Super Store Data: The primnary dataset used for this analysis is the "superstore
 - What are the cities with stores ranked by revenue?
 - What is the count of stores by location?
 - What is the Sales Trend?
+
+
+### DASHBOARD
+---
+<img width="278" alt="MAVEN TOY DASHBOARD" src="https://github.com/user-attachments/assets/d9f3f71e-7e7d-447e-b5fb-6a01d36ae553">
+
+
+
+
+### INSIGHT
+---
