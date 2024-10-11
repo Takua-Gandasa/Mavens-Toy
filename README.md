@@ -44,7 +44,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the Total Profit?
 - What is the Gross Profit Margin?
 - What is the Total Units Of Goods?
-- What is the Total Transaction Amount Of Transaction?
+- What is the Total Amount Of Transaction?
 - What is the Average Transaction Value?
 - Why do we have the Store City, Store Location and Date Slicer?
 - What are the sales and earnings for each product category?
@@ -85,3 +85,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### GROSS PROFIT MARGIN
 
 - A gross profit margin of 27.79% indicates healthy profitability and effective pricing and cost control. This suggests a competitive position in the market, but there’s potential for further improvement in margins. 
+
+#### TOTAL UNITS OF GOODS
+
+- The firm shows strong demand with 1.09 million units sold.
+
+#### TOTAL AMOUNT OF TRANSACTIONS
+
+- With 829,260 transactions and 1.09 million units sold, the average purchase is about 1.31 units per transaction.
+
+#### AVERAGE TRANSACTION VALUE
+
+- With an average transaction value of $17.42, there’s potential to increase customer spending through strategies like upselling, bundling, or promoting premium products.
