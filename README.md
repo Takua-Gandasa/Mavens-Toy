@@ -49,7 +49,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Why do we have the Store City, Store Location and Date Slicer?
 - What are the Sales and Earnings for each Product Category?
 - What are the Product Category By Units?
-- What are the Top 10 Products By Revenue?
+- What are the Top 10 Products By Revenue and Profit?
 - How many store locations does the company operate?
 - In how many cities does the store operate?
 - How many different store names does the company have?
@@ -109,3 +109,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### PRODUCT CATEGORY BY UNITS
 
 - Toys have the highest sales volume at 157,000 units, indicating strong demand. Games follow with solid sales of 130,000 units, while sports & outdoors show moderate sales of 118,000 units. Electronics have lower sales at 104,000 units, and art & crafts have the lowest sales volume at 61,000 units.
+
+#### TOP 10 PRODUCTS BY REVENUE AND PROFIT
+
+- Lego Bricks generate the highest revenue at $2.39 million but have a low profit margin of 12.6%. Colorbuds exhibit a strong profit margin of 53.2% alongside solid revenue of $1.56 million. Magic Sand's low profit margin of 12.4% suggests high costs relative to its revenue. Action Figures have a healthy profit margin of 37.6% with good revenue of $0.93 million. The Rubik's Cube shows a low profit margin of 9.9%, indicating challenges in profitability. The Deck of Cards enjoys a strong profit margin of 42.4% with decent revenue of $0.59 million. Splash Balls have a low profit margin of 11.1%, pointing to potential cost issues. The Nerf Gun has a moderate profit margin of 24.5%, while Animal Figures and Dart Guns have moderate profit margins of 23.5% and 25.5%, respectively.
