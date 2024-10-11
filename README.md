@@ -47,8 +47,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the Total Amount Of Transaction?
 - What is the Average Transaction Value?
 - Why do we have the Store City, Store Location and Date Slicer?
-- What are the sales and earnings for each product category?
-- What are the Category By Units?
+- What are the Sales and Earnings for each Product Category?
+- What are the Product Category By Units?
 - What are the Top 10 Products By Revenue?
 - How many store locations does the company operate?
 - In how many cities does the store operate?
@@ -97,3 +97,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### AVERAGE TRANSACTION VALUE
 
 - With an average transaction value of $17.42, there’s potential to increase customer spending through strategies like upselling, bundling, or promoting premium products.
+
+#### STORE CITY, STORE LOCATION AND STATE SLICER
+
+- The store city slicer aids in targeted marketing and resource allocation by analyzing city performance. The store location slicer offers insights into individual store operations and guides expansion strategies. While, date slicer helps identify sales trends and evaluate promotional impacts over time. Together, these tools enhance decision-making in marketing, operations, and inventory management, driving growth and efficiency.
+
+#### SALES AND EARNINGS FOR EACH PRODUCT CATEGORY
+
+- Toys generate high revenue but have a low profit margin of 21.6%. In contrast, art & crafts boast a strong profit margin of 29.6%. Electronics lead with the highest profit margin at 45.5%, making it a highly profitable category that deserves further investment. Games show a healthy profit margin of 31.8% and could benefit from sales promotions or product expansion. Lastly, sports & outdoors have the lowest profit margin at 22.7%.
+
+#### PRODUCT CATEGORY BY UNITS
+
+- Toys have the highest sales volume at 157,000 units, indicating strong demand. Games follow with solid sales of 130,000 units, while sports & outdoors show moderate sales of 118,000 units. Electronics have lower sales at 104,000 units, and art & crafts have the lowest sales volume at 61,000 units.
