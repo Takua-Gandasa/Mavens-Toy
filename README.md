@@ -50,11 +50,11 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What are the Sales and Earnings for each Product Category?
 - What are the Product Category By Units?
 - What are the Top 10 Products By Revenue and Profit?
-- How many store locations does the company operate?
-- In how many cities does the store operate?
+- How many Store Locations does the company operate?
+- In how many Cities does the store operate?
 - How many different store names does the company have?
-- What is the distribution of stores by location?
-- What is the revenue by location?
+- What is the Distribution of Stores by Location?
+- What is the Revenue by Location?
 - What is the average revenue per store and the average transaction value by store location?
 - What are the cities with stores ranked by revenue?
 - What is the count of stores by location?
@@ -113,3 +113,24 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### TOP 10 PRODUCTS BY REVENUE AND PROFIT
 
 - Lego Bricks generate the highest revenue at $2.39 million but have a low profit margin of 12.6%. Colorbuds exhibit a strong profit margin of 53.2% alongside solid revenue of $1.56 million. Magic Sand's low profit margin of 12.4% suggests high costs relative to its revenue. Action Figures have a healthy profit margin of 37.6% with good revenue of $0.93 million. The Rubik's Cube shows a low profit margin of 9.9%, indicating challenges in profitability. The Deck of Cards enjoys a strong profit margin of 42.4% with decent revenue of $0.59 million. Splash Balls have a low profit margin of 11.1%, pointing to potential cost issues. The Nerf Gun has a moderate profit margin of 24.5%, while Animal Figures and Dart Guns have moderate profit margins of 23.5% and 25.5%, respectively.
+
+
+#### STORE LOCATION
+
+- The firm is well-positioned for success with its four store locations, offering opportunities for local strategies and growth.
+
+#### STORE CITIES
+
+- The firm's operations in 29 cities position it for growth and customer engagement while allowing for risk mitigation.
+
+### STORE NAMES
+
+- Having 50 store names enhances brand visibility and market presence, offering diverse product offerings and competitive advantages.
+
+#### DISTRIBUTION OF STORES BY LOCATION
+
+- The store distribution strategy effectively captures various market segments, with Downtown as the primary focus. There are opportunities for growth in Residential and Airport locations, and efficient resource management will enhance performance across all areas.
+
+#### REVENUE BY LOCATION
+
+- Downtown is the major revenue contributor with $8.2 million, significantly outpacing other locations. The firm should implement strategies to enhance revenue across Commercial, Residential, and Airport areas to diversify income and improve overall performance.
