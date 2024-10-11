@@ -70,3 +70,18 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### INSIGHT
 ---
+#### 1. REVENUE
+
+- The firm has an average revenue of approximately $13.24 per unit sold, indicating strong demand with over 1 million units sold.
+
+#### TOTAL COST OF GOODS
+
+- With total revenue of $14.44 million and Cost Of Goods Sold of $10.43 million, the firm has a gross profit of $4.01 million and a gross margin of approximately 27.8%, which indicates solid profitability, but there’s potential for improvement in cost management and pricing strategies.
+
+#### TOTAL PROFIT
+
+- A profit of $4.01 million indicates solid financial performance, reflecting effective operations and cost control. This profitability supports reinvestment, growth opportunities, and enhances the firm’s financial health, making it attractive to investors.
+
+#### GROSS PROFIT MARGIN
+
+- A gross profit margin of 27.79% indicates healthy profitability and effective pricing and cost control. This suggests a competitive position in the market, but there’s potential for further improvement in margins. 
