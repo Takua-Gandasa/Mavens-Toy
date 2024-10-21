@@ -146,3 +146,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### 19. COUNTS OF STORE BY LOCATION
 
 - The larger cities such as Mexico City, Guadalajara, and Monterrey have broader store coverage across all location types, indicating more comprehensive market penetration. In contrast, smaller cities like Xalapa, Toluca, and Saltillo have a limited number of store types, potentially reflecting lower market demand or fewer opportunities in these areas. Expanding store types in underrepresented cities could present a growth opportunity, particularly in high-performing segments like Airport or Downtown locations.
+
+#### 20. SALES TREND
+
+- The sales trend shows fluctuations from January 2017 to mid-2018, with significant growth in mid-2017, peaking around late 2017 to early 2018. However, sales decline afterward, with a notable drop by mid-2018. The trend suggests potential seasonal factors or market influences, but further analysis is needed to stabilize or increase sales.
