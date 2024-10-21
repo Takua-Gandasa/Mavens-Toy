@@ -9,7 +9,6 @@
 - [Exploratory Data  Analysis](#exploratory-data-analysis)
 - [Dashboard](#dashboard)
 - [Insight](#insight)
-- [Recommendation](#recommendation)
 - [Insight and Recommendation](#insight-and-recommendation)
 
 
@@ -150,3 +149,18 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### 20. SALES TREND
 
 - The sales trend shows fluctuations from January 2017 to mid-2018, with significant growth in mid-2017, peaking around late 2017 to early 2018. However, sales decline afterward, with a notable drop by mid-2018. The trend suggests potential seasonal factors or market influences, but further analysis is needed to stabilize or increase sales.
+
+
+### INSIGHT AND RECOMMENDATION
+---
+#### 1. OPEN MORE STORES IN AIRPORT AND DOWNTOWN LOCATION
+
+- Airport with the least number of store 3, generate the highest average revenue per store outlet ($429,908). Also on an average transaction, customers spend $2 less in store located in airport region compare to stores in residential, downtown, commercial. Downtown generate the second largest average revenue per store with $283,434.
+
+#### 2. STOCK UP TOYS & ART AND CRAFTS
+
+- Toy category is the best selling product category with over $5M generated revenue. This can be attribute to sales of splash balls. Art and craft is the second best selling category with over $2M revenue generated.
+
+#### 3. OFFER DISCOUNT IN FEBRUARY, AUGUST TO INCREASE REVENUE
+
+- August recorded the least revenue generated. Discount and promo can be offered during this moment. Total revenue increase in March comparing to the previous years by $294,030.
