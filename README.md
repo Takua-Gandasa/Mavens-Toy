@@ -25,7 +25,6 @@ Super Store Data: The primnary dataset used for this analysis is the "superstore
 ---
 - Excel - Data cleaning & creating reports
 - PowerBi - Analysis
-- PowerPoint - Finalizing reports
 
 ### DATA CLEANING
   ---
