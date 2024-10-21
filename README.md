@@ -9,7 +9,7 @@
 - [Exploratory Data  Analysis](#exploratory-data-analysis)
 - [Dashboard](#dashboard)
 - [Insight](#insight)
-- [Insight and Recommendation](#insight-and-recommendation)
+- [Recommendation](#recommendation)
 
 
 
@@ -151,7 +151,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - The sales trend shows fluctuations from January 2017 to mid-2018, with significant growth in mid-2017, peaking around late 2017 to early 2018. However, sales decline afterward, with a notable drop by mid-2018. The trend suggests potential seasonal factors or market influences, but further analysis is needed to stabilize or increase sales.
 
 
-### INSIGHT AND RECOMMENDATION
+### RECOMMENDATION
 ---
 #### 1. OPEN MORE STORES IN AIRPORT AND DOWNTOWN LOCATION
 
